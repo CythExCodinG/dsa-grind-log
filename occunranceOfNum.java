@@ -20,5 +20,6 @@ public class occunranceOfNum {
     }
 
     System.err.println("No of times no occurred :" + count);
+    in.close();
   }
 }
